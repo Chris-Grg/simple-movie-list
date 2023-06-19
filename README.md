@@ -1,3 +1,7 @@
+![Screenshot (154)](https://github.com/Chris-Grg/simple-movie-list/assets/121335744/e01f972c-c912-4268-8791-69da821f87c1)
+
+![Screenshot (155)](https://github.com/Chris-Grg/simple-movie-list/assets/121335744/de5b8390-1ba5-47a0-9f4c-7b0720c6e6fd)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
