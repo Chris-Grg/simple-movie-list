@@ -1,11 +1,11 @@
-*{margin: 0;
+/* *{margin: 0;
   padding: 0;
-  
-
-}
+} */
 body{
   background-color: #111111 !important;
   color:#FFFFFF;
+  margin: 0;
+  padding: 0;
 }
 .movielist-img{
    display:flex;
@@ -91,12 +91,15 @@ color:#FFFFFF;
 }
 
 .footer{
-  border:solid blue;
+  border:solid black;
   margin:0;
+  padding: 0;
   align-items: center;
   text-align: center;
   padding: 20px 0;
-  color:aquamarine
+  font-size: x-small;
+  color:white;
+  background-color: #2e2c2c;
 }
 
 /* .searchbar{
@@ -116,3 +119,7 @@ color:#FFFFFF;
   border-radius: 20px;
   padding: 0 10px ;
 }
+container-fluid{
+  margin: 0;
+  padding: 0;
+} 
